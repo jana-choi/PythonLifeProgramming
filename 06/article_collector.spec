@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['article_collector.py'],
-             pathex=['D:\\Development\\GitHub\\PythonLifeProgramming\\06'],
+             pathex=['D:\\workspace\\PythonLifeProgramming\\06'],
              binaries=[],
              datas=[],
              hiddenimports=[],
